@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **CYBER-THUSHAN/CYBER-THUSHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<div align="center">   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhansamala&layout=compact&theme=react"/>
+    &nbsp;
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=mrhansamala&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
+</div>
+
+<br>
+﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
